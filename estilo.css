@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+div.borda{
+    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+    padding: 40px;
+    background-color: rgb(42, 165, 69);
+}
+div#resultado{
+    text-align: center;
+    padding: 20px;
+}
